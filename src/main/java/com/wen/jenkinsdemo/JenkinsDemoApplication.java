@@ -16,6 +16,6 @@ public class JenkinsDemoApplication {
     @GetMapping("/jenkins")
     public String jenkins() {
         //I don't know what to say
-		return "hel jenkins!!!11122211";
+		return "hel jenkins!";
     }
 }
